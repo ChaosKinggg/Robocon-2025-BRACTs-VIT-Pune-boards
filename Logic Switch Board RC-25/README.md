@@ -1,5 +1,5 @@
 # Logic Switch Board RC-25  
-**System Integration & Rapid Deployemnt Interface Board**
+**System Integration & Low-Power Distribution Interface Board**
 
 This board was designed as a **relay-based logic power distribution board** for robotics and it is intended to safely distribute **12 V power to logic circuits**.
 
