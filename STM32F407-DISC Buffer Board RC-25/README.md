@@ -99,7 +99,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 ## 📐 Design Files
 The following design Files are included in this repository:
 
-- **Schematic**(./Schematic) 
+- [**Schematic**](./Schematic) 
 - **PCB Layout**  
 - **3D View**  
 - **In-House Prototype**  
