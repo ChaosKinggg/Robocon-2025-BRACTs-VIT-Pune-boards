@@ -1,5 +1,5 @@
 # Pneumatics Solenoid Driver Board RC-25  
-**System Integration & Rapid Prototyping Interface Board**
+**System Integration & Rapid Deployment Interface Board**
 
 This board was designed to simplify and accelerate **pneumatic system deployment and integration** by providing a compact, reliable, and clearly mapped interface for controlling multiple solenoid valves from a microcontroller.  
 The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoids simultaneously**, significantly reducing wiring complexity during robotics development.
