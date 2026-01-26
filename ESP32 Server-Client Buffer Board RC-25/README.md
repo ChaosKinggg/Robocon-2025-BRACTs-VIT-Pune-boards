@@ -1,5 +1,5 @@
 # ESP32 Server–Client Buffer Board RC-25  
-**System Integration & Rapid Prototyping Interface Board**
+**System Integration & Rapid Deployment Interface Board**
 
 This buffer board was designed to enable **distributed system deployment and integration** using **two ESP32 DevKit V1 boards**, configured in a **Server–Client architecture**.  
 The intent of the board is to separate **wireless control logic** from **real-time sensor acquisition**, while providing clean, robust interfaces to external controllers such as **STM32F407 DISC1** and **Arduino Mega**.
