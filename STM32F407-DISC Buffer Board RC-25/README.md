@@ -8,7 +8,7 @@ The board was **designed, fabricated, assembled, and deployed** as part of a tea
 
 ---
 
-🎯 Design Objectives
+**🎯 Design Objectives**
 - Reduce wiring overhead during system integration
 - Provide application-specific connectors instead of raw GPIO headers
 - Enable quick motor, encoder, sensor, and communication interfacing
