@@ -100,9 +100,9 @@ The goal of the board is to provide clean, organized, and application-oriented b
 The following design Files are included in this repository:
 
 - [**Schematic**](./Schematic) 
-- **PCB Layout**  
-- **3D View**  
-- **In-House Prototype**  
-- **Deployed Build**
-- 
+- [**PCB Layout**](./Layout)
+- [**3D View**](./3D)  
+- [**In-House Prototype**](./Tn/-House-Prototype)  
+- [**Deployed Build**](./Deployed-Build)
+
 All files are organized into their respective folders for easy navigation.
