@@ -1,5 +1,5 @@
 # Arduino-Mega Buffer Board RC-25  
-**System Integration & Rapid Prototyping Interface Board**
+**System Integration & Rapid Deployment Interface Board**
 
 This buffer board was designed to simplify and accelerate **system deployment and integration** around the **Arduino Mega** development board.  
 The goal of the board is to provide clean, organized, and application-oriented breakouts for motors, encoders, communication interfaces, and power — reducing wiring complexity and integration time during robotics and embedded system development.
