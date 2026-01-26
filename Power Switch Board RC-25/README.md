@@ -1,10 +1,8 @@
 # Power Switch Board RC-25  
 **System Integration & High-Power Distribution Interface Board**
 
-This board was designed as a **relay-based main power distribution and safety switch** for robotic and embedded systems operating at **24 V**.  
-It is intended to safely distribute **high-power supply voltage** to downstream systems while providing a **manual, human-controlled power cutoff** mechanism for emergency and controlled shutdown scenarios.
-
-The board requires **explicit manual action** to turn OFF power and does not perform any automated switching.
+This board was designed as a **relay-based main power distribution board** for robotics operating at **24 V**.
+It is intended to safely distribute **high-power supply voltage** to downstream Power electronics systems.
 
 This board can be used **in parallel with the Logic Switch Board**, where a buck converter steps down **24 V → 12 V** to power logic electronics.
 
