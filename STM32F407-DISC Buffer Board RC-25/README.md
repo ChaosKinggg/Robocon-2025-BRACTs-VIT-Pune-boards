@@ -8,11 +8,10 @@ The board was **designed, fabricated, assembled, and deployed** as part of a tea
 
 ---
 
-## 🎯 Design Objectives
+🎯 Design Objectives
 - Reduce wiring overhead during system integration
 - Provide application-specific connectors instead of raw GPIO headers
 - Enable quick motor, encoder, sensor, and communication interfacing
-- Support both development and deployed system use
 - Improve robustness, power safety, and usability over direct dev-board wiring
 
 ---
@@ -121,12 +120,3 @@ The following design artifacts are included in this repository:
   Images of the board integrated into a working system
 
 All files are organized into their respective folders for easy navigation.
-
----
-
-## 🧠 Engineering Highlights
-- Application-driven pin mapping instead of generic GPIO breakouts
-- Noise-aware separation of encoder and power domains
-- Flexible UART / RS-485 configuration via hardware jumpers
-- Designed for both development convenience and deployment reliability
-- Emphasis on system-level integration rather than isolated subsystems
