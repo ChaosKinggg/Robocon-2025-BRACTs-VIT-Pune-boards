@@ -103,6 +103,6 @@ The following design Files are included in this repository:
 - [**PCB Layout**](./Layout)
 - [**3D View**](./3D)  
 - [**In-House Prototype**](./Tn/-House-Prototype)  
-- [**Deployed Build**](./Deployed-Build)
+- [**Deployed Build**](./Deployed%20Build)
 
 All files are organized into their respective folders for easy navigation.
