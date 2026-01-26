@@ -12,17 +12,15 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 - Safely distribute high-power supply voltage across multiple subsystems
 - Provide a clear and reliable manual power control mechanism
 - Enable emergency shutdown via an external kill switch
-- Improve system safety during testing and deployment
 - Allow clean separation of power and logic domains
-- Prevent damage to downstream systems during power switching
 
 ---
 
 ## 🔌 Power Distribution Interfaces
-- **XT60 connectors** for power output distribution
+- **6 XT60 connectors** for power output distribution
 - Designed to operate at **24 V**
 - Suitable for higher current delivery compared to logic-level distribution
-- Enables centralized power routing to motor drivers, converters, and power-hungry peripherals
+- Enables centralized power routing to motor drivers and Buck converters
 
 ---
 
@@ -30,7 +28,7 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 - **Relay-based power switching**
 - Relay used to isolate and control the main power rail
 - Designed to handle higher voltage and current levels
-- Switching is **manual only** and requires deliberate user interaction
+- Switching is **manual only** and requires user interaction
 
 ---
 
@@ -58,8 +56,11 @@ Two independent methods provided to turn ON the main power rail:
 - **Flyback diode across relay coil**
   - Protects control circuitry from inductive voltage spikes
   - Improves relay reliability and operational lifetime
-- Manual switching prevents unintended or software-induced power cycling
-- Designed for fail-safe behavior during system faults
+- **Via-stitched high-current power tracks**
+  - Power traces are reinforced using via stitching
+  - Improves current-carrying capability across PCB layers
+  - Reduces resistive losses and localized heating
+  - Enhances thermal distribution and overall board reliability
 
 ---
 
@@ -69,13 +70,6 @@ Two independent methods provided to turn ON the main power rail:
 - **Main power ON LED**
   - Indicates that the switched power rail is active
 - Clear distinction between supply availability and enabled output
-
----
-
-## 💡 Indicators & User Interface
-- Two on-board **power LEDs** for system status visibility
-- Push-lock switch for direct operator control
-- External kill switch interface for safety-critical remote access
 
 ---
 
