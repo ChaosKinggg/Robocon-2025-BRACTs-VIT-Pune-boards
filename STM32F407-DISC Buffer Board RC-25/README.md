@@ -1,5 +1,5 @@
 # STM32F407-DISC Buffer Board RC-25 
-**System Integration & Rapid Prototyping Interface Board**
+**System Integration & Rapid Deployment Interface Board**
 
 This extension board was designed to significantly simplify and accelerate **system Deployment and integration** around the **STM32F407 Discovery (DISC1) development board**.  
 The goal of the board is to provide clean, organized, and application-oriented breakouts for motors, encoders, communication interfaces, sensors, and power — reducing wiring complexity and integration time during robotics and embedded system development.
