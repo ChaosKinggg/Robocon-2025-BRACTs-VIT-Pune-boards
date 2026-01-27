@@ -8,6 +8,18 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 
 ---
 
+## Design Files
+The following design Files are included in this repository:
+
+- [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
+
+All files are organized into their respective folders for easy navigation.
+
+---
+
 ## Design Objectives
 - Safely distribute high-power supply voltage across multiple subsystems
 - Provide a clear and reliable manual power control mechanism
@@ -70,15 +82,3 @@ Two independent methods provided to turn ON the main power rail:
 - **Main power ON LED**
   - Indicates that the switched power rail is active
 - Clear distinction between supply availability and enabled output
-
----
-
-## Design Files
-The following design Files are included in this repository:
-
-- [**Deployed Build**](./Deployed%20Build)
-- [**3D View**](./3D)  
-- [**PCB Layout**](./Layout)
-- [**Schematic**](./Schematic) 
-
-All files are organized into their respective folders for easy navigation.
