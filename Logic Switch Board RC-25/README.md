@@ -5,6 +5,18 @@ This board was designed as a **relay-based logic power distribution board** for 
 
 ---
 
+## Design Files
+The following design Files are included in this repository:
+
+- [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
+
+All files are organized into their respective folders for easy navigation. 
+
+---
+
 ## Design Objectives
 - Safely distribute logic supply power across multiple subsystems
 - Enable emergency shutdown via an external kill switch
@@ -60,15 +72,3 @@ Two independent methods provided to turn ON the logic power rail:
 - **Logic power ON LED**
   - Indicates that the logic distribution rail is active
 - Clear visual separation between supply availability and switched output
-
----
-
-## Design Files
-The following design Files are included in this repository:
-
-- [**Deployed Build**](./Deployed%20Build)
-- [**3D View**](./3D)  
-- [**PCB Layout**](./Layout)
-- [**Schematic**](./Schematic) 
-
-All files are organized into their respective folders for easy navigation. 
