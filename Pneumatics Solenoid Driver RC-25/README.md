@@ -6,6 +6,18 @@ The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoi
 
 ---
 
+## Design Files
+The following design Files are included in this repository:
+
+- [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
+
+All files are organized into their respective folders for easy navigation. 
+
+---
+
 ## Design Objectives
 - Enable fast and reliable control of multiple pneumatic solenoids
 - Reduce wiring clutter and GPIO management complexity
@@ -73,15 +85,3 @@ This allows:
   - Enables quick visual debugging
 - On-board **power LED** for supply indication
 - Tactile switches for direct channel actuation
-
----
-
-## Design Files
-The following design Files are included in this repository:
-
-- [**Deployed Build**](./Deployed%20Build)
-- [**3D View**](./3D)  
-- [**PCB Layout**](./Layout)
-- [**Schematic**](./Schematic) 
-
-All files are organized into their respective folders for easy navigation. 
