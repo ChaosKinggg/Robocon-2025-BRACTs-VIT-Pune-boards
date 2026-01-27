@@ -6,7 +6,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 🎯 Design Objectives
+## Design Objectives
 - Reduce wiring overhead during system integration
 - Provide application-specific connectors instead of raw GPIO headers
 - Enable quick motor, encoder, sensor, and communication interfacing
@@ -14,7 +14,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 🔌 Motor Driver Interfaces
+## Motor Driver Interfaces
 - **4 dedicated terminal blocks (Relimates)** for Cytron motor drivers
 - Each motor interface provides:
   - 2 × PWM pins
@@ -23,14 +23,14 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 🔄 Encoder Interfaces
+## Encoder Interfaces
 - **5 dedicated terminal blocks** for optical rotary encoders
 - On-board **pull-up resistors** provided for encoder signals
 - Designed for direct connection of incremental encoders
 
 ---
 
-## 🔧 Actuation & Expansion Interfaces
+## Actuation & Expansion Interfaces
 
 ### FRC-Style Connectors
 - **2 dedicated FRC terminal blocks**
@@ -44,7 +44,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 🔗 Communication Interfaces
+## Communication Interfaces
 
 ### UART
 - **3 STM32 UARTs broken out**
@@ -69,7 +69,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 🔌 I²C & Sensor Interfaces
+## I²C & Sensor Interfaces
 - **Dedicated I²C terminal block**
 - Option to populate **external I²C pull-up resistors**
 - **Dedicated pin headers for BNO055 IMU**
@@ -78,7 +78,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## ⚡ Power Architecture & Protection
+## Power Architecture & Protection
 - **Two XT30 power connectors**
   - XT30 #1: Powers dev board and all peripherals **except encoders**
   - XT30 #2: Dedicated power rail for encoders
@@ -89,7 +89,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
-## 💡 Indicators & User Interface
+## Indicators & User Interface
 - On-board **power LEDs**
 - Dedicated **user LED**
 - Visual feedback for board power and system state
@@ -99,10 +99,10 @@ The goal of the board is to provide clean, organized, and application-oriented b
 ## 📐 Design Files
 The following design Files are included in this repository:
 
-- [**Schematic**](./Schematic) 
-- [**PCB Layout**](./Layout)
-- [**3D View**](./3D)  
-- [**In-House Prototype**](./Tn/-House-Prototype)  
 - [**Deployed Build**](./Deployed%20Build)
+- [**In-House Prototype**](./Tn/-House-Prototype)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
 
 All files are organized into their respective folders for easy navigation.
