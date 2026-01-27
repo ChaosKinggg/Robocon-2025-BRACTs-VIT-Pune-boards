@@ -1,2 +1,71 @@
 # Robocon-2025-BRACTs-VIT-Pune-boards
 Showcase of Competition-used hardware boards developed by the BRACTs VIT Pune (Robocon team 2025), focusing on system integration and PCB design.
+
+# Robocon 2025 – Hardware Boards Repository
+
+Welcome to the **Robocon 2025 Hardware Boards Repository**.  
+This repository contains the collection of **hardware boards and buffer boards** developed for **Robocon 2025** by me along with my teammates, under the guidance of our seniors.
+
+All boards were **designed using Altium Designer**, **manufactured in-house for testing and validation**, and after successful revision and validation, **fabricated using professional PCB fabrication services**. Final boards were **assembled in-house** and used by **BRACT’s VIT Pune** during **Robocon 2025**.
+
+---
+
+## 🤖 What is Robocon?
+**ABU Robocon (Asia-Pacific Robot Contest)** is an international robotics competition where student teams design and build robots to solve a themed challenge under strict constraints.
+
+Key aspects of Robocon:
+- Entire robot is **student-built**
+- Strong focus on **electronics, embedded systems, and mechanical integration**
+- Emphasis on **reliability, speed, and real-time performance**
+- Engineering under **tight time and resource constraints**
+
+---
+
+## 📦 Boards & Repository Overview
+This repository includes multiple boards developed for different subsystems of the robot, such as:
+
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+
+The boards were iteratively developed through:
+1. **Design and In-house prototype manufacturing for testing and validation**
+2. **Design revisions based on observations**
+3. **In-house assembly and competition deployment**
+
+Each board resides in its respective folder with **relevant design files and documentation**.
+
+---
+
+## 📐 Project Details
+Each board folder typically contains:
+
+- **Schematic Files** – Complete circuit designs  
+- **PCB Layout Files** – Routing, stack-up, and placement details  
+- **3D PCB Views** – Mechanical and assembly visualization  
+- **Deployed Build** – Images of actual baords used as Robocon 2025 
+
+These designs prioritize **functional reliability and competition performance** over cosmetic or commercial-grade finish.
+
+---
+
+## 🙏 Acknowledgments
+
+- **Team Members**: This work was carried out collaboratively with my teammates:  
+  - *Rohit Jagtap*  
+  - *Aryaa Kher*  
+
+- **Seniors & Mentors**: Special thanks to our seniors for their technical guidance, design reviews, and system-level insights throughout the Robocon 2025 season.
+
+- **BRACT’s Vishwakarma Institute of Technology, Pune**: For providing the platform, infrastructure, and support to participate in Robocon 2025.
+
+- **Altium Designer**: For providing a powerful and professional PCB design environment used for all hardware development.
+
+---
+
+> **Note:**  
+> This repository is intended solely for **demonstrating hardware design skills, practical experience, and engineering knowledge** gained during Robocon 2025.
