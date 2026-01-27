@@ -6,6 +6,11 @@ The intent of the board is to separate **wireless control logic** from **real-ti
 
 The Server ESP32 handles all wireless operations, while the Client ESP32 is dedicated to sensor data acquisition and wired communication.
 
+<p align="center">
+  <img src="./In-House%20Prototype/43729.jpg.jpeg" width="650"><br>
+  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+</p>
+
 ---
 
 ## Design Files
