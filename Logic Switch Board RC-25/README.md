@@ -3,6 +3,11 @@
 
 This board was designed as a **relay-based logic power distribution board** for robotics and it is intended to safely distribute **12 V power to logic circuits**.
 
+<p align="center">
+  <img src="./In-House%20Prototype/43729.jpg.jpeg" width="650"><br>
+  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+</p>
+
 ---
 
 ## Design Files
