@@ -10,7 +10,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 The following design Files are included in this repository:
 
 - [**Deployed Build**](./Deployed%20Build)
-- [**In-House Prototype**](./In-House-Prototype)
+- [**In-House Prototype**](.In-House%20Prototype)
 - [**3D View**](./3D)  
 - [**PCB Layout**](./Layout)
 - [**Schematic**](./Schematic) 
