@@ -5,20 +5,20 @@ This board was designed as a **relay-based logic power distribution board** for 
 
 ---
 
-## 🎯 Design Objectives
+## Design Objectives
 - Safely distribute logic supply power across multiple subsystems
 - Enable emergency shutdown via an external kill switch
 
 ---
 
-## 🔌 Power Distribution Interfaces
+## Power Distribution Interfaces
 - **6 XT30 connectors** for logic power distribution
 - Designed to distribute **12 V logic supply** to multiple downstream boards
 - Allows centralized power routing instead of multiple battery splitters
 
 ---
 
-## 🔄 Switching Architecture
+## Switching Architecture
 - **Relay-based power switching**
 - Relay used to isolate and control logic power distribution
 - Suitable for handling higher currents compared to direct electronic switching
@@ -26,7 +26,7 @@ This board was designed as a **relay-based logic power distribution board** for 
 
 ---
 
-## 🔧 Control & Actuation Interfaces
+## Control & Actuation Interfaces
 
 ### Power Enable Options
 Two independent methods provided to turn ON the logic power rail:
@@ -46,7 +46,7 @@ Two independent methods provided to turn ON the logic power rail:
 
 ---
 
-## 🛡 Protection & Safety Features
+## Protection & Safety Features
 - **Flyback diode across relay coil**
   - Protects circuitry from inductive voltage spikes
   - Improves relay reliability and longevity
@@ -54,7 +54,7 @@ Two independent methods provided to turn ON the logic power rail:
 
 ---
 
-## ⚡ Power Status Indication
+## Power Status Indication
 - **Battery presence LED**
   - Indicates that the power source is connected
 - **Logic power ON LED**
@@ -63,12 +63,12 @@ Two independent methods provided to turn ON the logic power rail:
 
 ---
 
-## 📐 Design Files
+## Design Files
 The following design Files are included in this repository:
 
-- [**Schematic**](./Schematic) 
-- [**PCB Layout**](./Layout)
-- [**3D View**](./3D)
 - [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
 
 All files are organized into their respective folders for easy navigation. 
