@@ -8,6 +8,19 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
+## Design Files
+The following design Files are included in this repository:
+
+- [**Deployed Build**](./Deployed%20Build)
+- [**In-House Prototype**](./In-House%20Prototype)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
+
+All files are organized into their respective folders for easy navigation.
+
+---
+
 ## Design Objectives
 - Enable clear separation of wireless control and sensor acquisition
 - Reduce system latency by offloading time-critical tasks to a dedicated client
@@ -99,17 +112,4 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 ## Indicators & User Interface
 - On-board **power LEDs**
 - Dedicated **user LEDs**
-- Visual feedback for board power, system status, and operation
-
----
-
-## Design Files
-The following design Files are included in this repository:
-
-- [**Deployed Build**](./Deployed%20Build)
-- [**In-House Prototype**](./Tn/-House-Prototype)
-- [**3D View**](./3D)  
-- [**PCB Layout**](./Layout)
-- [**Schematic**](./Schematic) 
-
-All files are organized into their respective folders for easy navigation. 
+- Visual feedback for board power, system status, and operation 
