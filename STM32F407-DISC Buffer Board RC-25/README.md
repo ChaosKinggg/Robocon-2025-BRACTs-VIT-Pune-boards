@@ -5,8 +5,8 @@ This extension board was designed to significantly simplify and accelerate **sys
 The goal of the board is to provide clean, organized, and application-oriented breakouts for motors, encoders, communication interfaces, sensors, and power — reducing wiring complexity and integration time during robotics and embedded system development.
 
 <p align="center">
-  <img src="./In-House%20Prototype/43729.jpg.jpeg" width="650"><br>
-  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+  <img src="./In-House%20Prototype/43753.jpg.jpeg" width="650"><br>
+  <em>Deployed Build of STM32F407-DISC Buffer Board</em>
 </p>
 
 ---
