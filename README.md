@@ -1,7 +1,7 @@
 # Robocon 2025 BRACTs VIT-Pune Hardware Boards Repository
 
 Welcome to the **Robocon 2025 BRACTs VIT-Pune Hardware Boards Repository**.  
-This repository contains the collection of **competition-used hardware and buffer boards** developed for **Robocon 2025** by me along with my teammates, under the guidance of our seniors.
+This repository contains the collection of **competition-used hardware and buffer boards** developed by me along with my teammates, for **Robocon 2025** under the guidance of our seniors.
 
 All boards were **designed using Altium Designer**, **manufactured in-house for testing and validation**, and after successful revision and validation, **fabricated using professional PCB fabrication services**. Final boards were **assembled in-house** and used by **BRACT’s VIT Pune** during **Robocon 2025**.
 
