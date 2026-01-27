@@ -8,7 +8,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🎯 Design Objectives
+## Design Objectives
 - Enable clear separation of wireless control and sensor acquisition
 - Reduce system latency by offloading time-critical tasks to a dedicated client
 - Provide structured, application-oriented breakouts for sensors and communication
@@ -17,7 +17,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🧠 System Architecture Overview
+## System Architecture Overview
 - **Server ESP32**
   - Handles wireless communication
   - Receives commands from control applications
@@ -29,7 +29,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🔌 Controller Communication Interfaces
+## Controller Communication Interfaces
 - Wired communication from **Client ESP32** to external controllers
 - Designed to interface with:
   - STM32 microcontrollers
@@ -38,7 +38,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🔄 Encoder Interfaces (Client ESP32)
+## Encoder Interfaces (Client ESP32)
 - **4 dedicated terminal blocks** for optical rotary encoders
 - On-board **pull-up resistors** provided for encoder signals
 - Designed for direct connection of incremental encoders
@@ -46,7 +46,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🔧 Actuation & Expansion Interfaces
+## Actuation & Expansion Interfaces
 
 ### I²C & Sensor Interfaces (Client ESP32)
 - **Dedicated I²C terminal block**
@@ -58,7 +58,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🔗 Communication Interfaces
+## Communication Interfaces
 
 ### UART
 - **Both Server and Client ESP32 UARTs broken out**
@@ -75,7 +75,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 🌐 Wireless Control & Reset Capability (Server ESP32)
+## Wireless Control & Reset Capability (Server ESP32)
 - Server ESP32 receives commands wirelessly from control applications
 - Supports remote control operations including:
   - Resetting **Client ESP32**
@@ -85,7 +85,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## ⚡ Power Architecture & Protection
+## Power Architecture & Protection
 - **Two XT30 power connectors**
   - XT30 #1: Powers logic, wireless modules, and peripherals **except encoders**
   - XT30 #2: Dedicated power rail for encoders
@@ -96,20 +96,20 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 ---
 
-## 💡 Indicators & User Interface
+## Indicators & User Interface
 - On-board **power LEDs**
 - Dedicated **user LEDs**
 - Visual feedback for board power, system status, and operation
 
 ---
 
-## 📐 Design Files
+## Design Files
 The following design Files are included in this repository:
 
-- [**Schematic**](./Schematic) 
-- [**PCB Layout**](./Layout)
-- [**3D View**](./3D)  
-- [**In-House Prototype**](./Tn-House%20Prototype)  
 - [**Deployed Build**](./Deployed%20Build)
+- [**In-House Prototype**](./Tn/-House-Prototype)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
 
 All files are organized into their respective folders for easy navigation. 
