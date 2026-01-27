@@ -18,7 +18,7 @@ Key aspects of Robocon:
 
 ---
 
-## 📦 Boards & Repository Overview
+## Boards & Repository Overview
 This repository includes multiple boards developed for different subsystems of the robot, such as:
 
 - [**Arduino-Mega Buffer Board RC-25**](./Arduino-Mega%20Buffer%20Board%20RC-25): Interface and buffering board for Arduino Mega based control systems.
@@ -37,7 +37,7 @@ Each board resides in its respective folder with **relevant design files and doc
 
 ---
 
-## 📐 Project Details
+## Project Details
 Each board folder typically contains:
 
 - **Schematic Files** – Complete circuit designs  
@@ -49,7 +49,7 @@ These designs prioritize **functional reliability and competition performance** 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Team Members**: This work was carried out collaboratively with my teammates:  
   - *Rohit Jagtap*  
