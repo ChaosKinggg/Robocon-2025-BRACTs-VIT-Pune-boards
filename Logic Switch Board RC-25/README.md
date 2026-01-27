@@ -5,7 +5,7 @@ This board was designed as a **relay-based logic power distribution board** for 
 
 <p align="center">
   <img src="./Deployed%20Build/43744.jpg.jpeg" width="650"><br>
-  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+  <em>Deployed Build of Logic Switch Board</em>
 </p>
 
 ---
