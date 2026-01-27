@@ -6,8 +6,6 @@ It is intended to safely distribute **high-power supply voltage** to downstream 
 
 This board can be used **in parallel with the Logic Switch Board**, where a buck converter steps down **24 V → 12 V** to power logic electronics.
 
-Power Switch Board RC-25/Deployed Build/43743.jpg.jpeg
-
 <p align="center">
   <img src="./Deployed%20Build/43743.jpg.jpeg" width="650"><br>
   <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
