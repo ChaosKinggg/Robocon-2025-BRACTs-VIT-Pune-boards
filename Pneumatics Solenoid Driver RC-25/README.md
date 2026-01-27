@@ -4,6 +4,11 @@
 This board was designed to simplify and accelerate **pneumatic system deployment and integration** by providing a compact, reliable, and clearly mapped interface for controlling multiple solenoid valves from a microcontroller.  
 The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoids simultaneously**, significantly reducing wiring complexity during robotics development.
 
+<p align="center">
+  <img src="./In-House%20Prototype/43729.jpg.jpeg" width="650"><br>
+  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+</p>
+
 ---
 
 ## Design Files
