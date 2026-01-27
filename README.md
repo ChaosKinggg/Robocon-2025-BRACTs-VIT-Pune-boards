@@ -21,12 +21,12 @@ Key aspects of Robocon:
 ## 📦 Boards & Repository Overview
 This repository includes multiple boards developed for different subsystems of the robot, such as:
 
-- **Arduino-Mega Buffer Board RC-25**
-- **ESP32 Server-Client Buffer Board RC-25**
-- **Logic Switch Board RC-25**
-- **Pneumatics Solenoid Driver RC-25**
-- **Power Switch Board RC-25**
-- **STM32F407-DISC Buffer Board RC-25**
+- [**Arduino-Mega Buffer Board RC-25**](./Arduino-Mega%20Buffer%20Board%20RC-25)
+- [**ESP32 Server-Client Buffer Board RC-25**](./ESP32%20Server-Client%20Buffer%20Board%20RC-25)
+- [**Logic Switch Board RC-25**](./Logic%20Switch%20Board%20RC-25)
+- [**Pneumatics Solenoid Driver RC-25**](./Pneumatics%20Solenoid%20Driver%20RC-25)
+- [**Power Switch Board RC-25**](./Power%20Switch%20Board%20RC-25)
+- [**STM32F407-DISC Buffer Board RC-25**](./STM32F407-DISC%20Buffer%20Board%20RC-25)
 
 The boards were iteratively developed through:
 1. **Design and In-house prototype manufacturing for testing and validation**
