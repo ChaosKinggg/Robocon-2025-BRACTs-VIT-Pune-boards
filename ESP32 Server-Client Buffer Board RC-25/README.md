@@ -8,7 +8,7 @@ The Server ESP32 handles all wireless operations, while the Client ESP32 is dedi
 
 <p align="center">
   <img src="./Deployed%20Build/43765.jpg.jpeg" width="650"><br>
-  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+  <em>Deployed Build of ESP32 Server–Client Buffer Board</em>
 </p>
 
 ---
