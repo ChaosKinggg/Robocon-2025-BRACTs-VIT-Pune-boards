@@ -6,6 +6,19 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 ---
 
+## 📐 Design Files
+The following design Files are included in this repository:
+
+- [**Deployed Build**](./Deployed%20Build)
+- [**In-House Prototype**](./Tn-House%20Prototype)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
+
+All files are organized into their respective folders for easy navigation.
+
+---
+
 ## Design Objectives
 - Reduce wiring overhead during system integration
 - Provide application-specific connectors instead of raw GPIO headers
@@ -93,16 +106,3 @@ The goal of the board is to provide clean, organized, and application-oriented b
 - On-board **power LEDs**
 - Dedicated **user LED**
 - Visual feedback for board power and system state
-
----
-
-## 📐 Design Files
-The following design Files are included in this repository:
-
-- [**Deployed Build**](./Deployed%20Build)
-- [**In-House Prototype**](./Tn/-House-Prototype)
-- [**3D View**](./3D)  
-- [**PCB Layout**](./Layout)
-- [**Schematic**](./Schematic) 
-
-All files are organized into their respective folders for easy navigation.
