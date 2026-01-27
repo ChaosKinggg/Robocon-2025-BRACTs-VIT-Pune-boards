@@ -6,6 +6,11 @@ It is intended to safely distribute **high-power supply voltage** to downstream 
 
 This board can be used **in parallel with the Logic Switch Board**, where a buck converter steps down **24 V → 12 V** to power logic electronics.
 
+<p align="center">
+  <img src="./In-House%20Prototype/43729.jpg.jpeg" width="650"><br>
+  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+</p>
+
 ---
 
 ## Design Files
