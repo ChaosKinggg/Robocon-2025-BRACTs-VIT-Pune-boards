@@ -6,7 +6,7 @@ The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoi
 
 ---
 
-## 🎯 Design Objectives
+## Design Objectives
 - Enable fast and reliable control of multiple pneumatic solenoids
 - Reduce wiring clutter and GPIO management complexity
 - Provide clear channel-to-GPIO mapping for quick system integration
@@ -15,7 +15,7 @@ The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoi
 
 ---
 
-## 🔌 Solenoid Actuation Interfaces
+## Solenoid Actuation Interfaces
 - **8 independent solenoid channels**
 - Each channel capable of driving one pneumatic solenoid valve
 - All channels can be actuated **simultaneously**
@@ -23,7 +23,7 @@ The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoi
 
 ---
 
-## 🔧 Control & Interface Architecture
+## Control & Interface Architecture
 
 ### GPIO Interface (FRC Connector)
 - **Single FRC connector** breaking out control signals for all 8 channels
@@ -47,7 +47,7 @@ This allows:
 
 ---
 
-## 🛡 Protection & Reliability Features
+## Protection & Reliability Features
 - **Flyback diodes on every channel**
   - Protects MOSFETs and logic circuitry from inductive voltage spikes
   - Eliminates damage caused by solenoid magnetic field collapse
@@ -56,19 +56,18 @@ This allows:
   - Prevents back-feeding or over-voltage on MCU GPIOs
 - **MOSFET-based switching**
   - Low heat dissipation
-  - High efficiency
   - Compact and reliable channel implementation
 
 ---
 
-## ⚡ Power Architecture & Control
+## Power Architecture & Control
 - **Single XT30 power connector** for solenoid power input
 - On-board **power LED** indicating board power status
 - **Push-lock power switch** to turn solenoid power ON/OFF
 
 ---
 
-## 💡 Indicators & User Interface
+## Indicators & User Interface
 - **8 individual channel LEDs**
   - Indicates ON/OFF state of each solenoid channel
   - Enables quick visual debugging
@@ -77,13 +76,12 @@ This allows:
 
 ---
 
-## 📐 Design Files
+## Design Files
 The following design Files are included in this repository:
 
-- [**Schematic**](./Schematic) 
-- [**PCB Layout**](./Layout)
-- [**3D View**](./3D)  
-- [**In-House Prototype**](./Tn-House%20Prototype)  
 - [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
 
 All files are organized into their respective folders for easy navigation. 
