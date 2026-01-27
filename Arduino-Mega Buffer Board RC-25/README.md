@@ -6,7 +6,7 @@ The goal of the board is to provide clean, organized, and application-oriented b
 
 <p align="center">
   <img src="./Deployed%20Build/43764.jpg.jpeg" width="650"><br>
-  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+  <em>Deployed Build of Arduino-Mega Buffer Board</em>
 </p>
 
 ---
