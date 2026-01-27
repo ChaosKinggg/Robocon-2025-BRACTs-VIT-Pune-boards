@@ -6,7 +6,7 @@ The board enables clean, fast, and safe actuation of **up to 8 pneumatic solenoi
 
 <p align="center">
   <img src="./Deployed%20Build/43742.jpg.jpeg" width="650"><br>
-  <em>In-House Prototype of discrete N-MOS H-bridge PMDC motor driver</em>
+  <em>Deployed Build of Pneumatics Solenoid Driver Board</em>
 </p>
 
 ---
