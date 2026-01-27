@@ -1,10 +1,7 @@
-# Robocon-2025-BRACTs-VIT-Pune-boards
-Showcase of Competition-used hardware boards developed by the BRACTs VIT Pune (Robocon team 2025), focusing on system integration and PCB design.
+# Robocon 2025 BRACTs VIT-Pune Hardware Boards Repository
 
-# Robocon 2025 – Hardware Boards Repository
-
-Welcome to the **Robocon 2025 Hardware Boards Repository**.  
-This repository contains the collection of **hardware boards and buffer boards** developed for **Robocon 2025** by me along with my teammates, under the guidance of our seniors.
+Welcome to the **Robocon 2025 BRACTs VIT-Pune Hardware Boards Repository**.  
+This repository contains the collection of **Competition-used hardware and buffer boards** developed for **Robocon 2025** by me along with my teammates, under the guidance of our seniors.
 
 All boards were **designed using Altium Designer**, **manufactured in-house for testing and validation**, and after successful revision and validation, **fabricated using professional PCB fabrication services**. Final boards were **assembled in-house** and used by **BRACT’s VIT Pune** during **Robocon 2025**.
 
@@ -24,13 +21,12 @@ Key aspects of Robocon:
 ## 📦 Boards & Repository Overview
 This repository includes multiple boards developed for different subsystems of the robot, such as:
 
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
+- **Arduino-Mega Buffer Board RC-25**
+- **ESP32 Server-Client Buffer Board RC-25**
+- **Logic Switch Board RC-25**
+- **Pneumatics Solenoid Driver RC-25**
+- **Power Switch Board RC-25**
+- **STM32F407-DISC Buffer Board RC-25**
 
 The boards were iteratively developed through:
 1. **Design and In-house prototype manufacturing for testing and validation**
@@ -47,7 +43,7 @@ Each board folder typically contains:
 - **Schematic Files** – Complete circuit designs  
 - **PCB Layout Files** – Routing, stack-up, and placement details  
 - **3D PCB Views** – Mechanical and assembly visualization  
-- **Deployed Build** – Images of actual baords used as Robocon 2025 
+- **Deployed Build** – Images of actual baords used at Robocon 2025 
 
 These designs prioritize **functional reliability and competition performance** over cosmetic or commercial-grade finish.
 
