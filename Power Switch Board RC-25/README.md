@@ -8,7 +8,7 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 
 ---
 
-## 🎯 Design Objectives
+## Design Objectives
 - Safely distribute high-power supply voltage across multiple subsystems
 - Provide a clear and reliable manual power control mechanism
 - Enable emergency shutdown via an external kill switch
@@ -16,7 +16,7 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 
 ---
 
-## 🔌 Power Distribution Interfaces
+## Power Distribution Interfaces
 - **6 XT60 connectors** for power output distribution
 - Designed to operate at **24 V**
 - Suitable for higher current delivery compared to logic-level distribution
@@ -24,7 +24,7 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 
 ---
 
-## 🔄 Switching Architecture
+## Switching Architecture
 - **Relay-based power switching**
 - Relay used to isolate and control the main power rail
 - Designed to handle higher voltage and current levels
@@ -32,7 +32,7 @@ This board can be used **in parallel with the Logic Switch Board**, where a buck
 
 ---
 
-## 🔧 Control & Actuation Interfaces
+## Control & Actuation Interfaces
 
 ### Power Enable Options
 Two independent methods provided to turn ON the main power rail:
@@ -52,7 +52,7 @@ Two independent methods provided to turn ON the main power rail:
 
 ---
 
-## 🛡 Protection & Safety Features
+## Protection & Safety Features
 - **Flyback diode across relay coil**
   - Protects control circuitry from inductive voltage spikes
   - Improves relay reliability and operational lifetime
@@ -64,7 +64,7 @@ Two independent methods provided to turn ON the main power rail:
 
 ---
 
-## ⚡ Power Status Indication
+## Power Status Indication
 - **Battery presence LED**
   - Indicates that the 24 V supply is connected
 - **Main power ON LED**
@@ -73,12 +73,12 @@ Two independent methods provided to turn ON the main power rail:
 
 ---
 
-## 📐 Design Files
+## Design Files
 The following design Files are included in this repository:
 
-- [**Schematic**](./Schematic)  
-- [**PCB Layout**](./Layout)  
-- [**3D View**](./3D)  
 - [**Deployed Build**](./Deployed%20Build)
+- [**3D View**](./3D)  
+- [**PCB Layout**](./Layout)
+- [**Schematic**](./Schematic) 
 
 All files are organized into their respective folders for easy navigation.
