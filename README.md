@@ -21,7 +21,7 @@ Key aspects of Robocon:
 ## Boards & Repository Overview
 This repository includes multiple boards developed for different subsystems of the robot, such as:
 
-- [**STM32F407-DISC Buffer Board RC-25**](./STM32F407-DISC%20Buffer%20Board%20RC-25): Interface and buffering board for STM32F407 Disc based control systems.
+- [**STM32F407-DISC Buffer Board RC-25**](./STM32F407-DISC%20Buffer%20Board%20RC-25): Interface and buffering board for STM32F407 DISC based control systems.
 - [**ESP32 Server-Client Buffer Board RC-25**](./ESP32%20Server-Client%20Buffer%20Board%20RC-25): Communication buffer board for ESP32-based server–client interaction.
 - [**Arduino-Mega Buffer Board RC-25**](./Arduino-Mega%20Buffer%20Board%20RC-25): Interface and buffering board for Arduino Mega based control systems.
 - [**Pneumatics Solenoid Driver RC-25**](./Pneumatics%20Solenoid%20Driver%20RC-25): driver board for controlling pneumatic solenoid valves.
